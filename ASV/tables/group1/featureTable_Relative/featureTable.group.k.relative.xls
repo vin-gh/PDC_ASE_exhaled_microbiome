@@ -1,0 +1,4 @@
+Taxonomy	ASE	PDC	Tax_detail
+Bacteria	0.999931	0.999740	k__Bacteria;
+Archaea	0.000009	0.000139	k__Archaea;
+Others	0.000060	0.000122	Others

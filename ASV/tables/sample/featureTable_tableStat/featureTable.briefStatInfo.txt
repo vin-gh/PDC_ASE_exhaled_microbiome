@@ -1,0 +1,40 @@
+Num samples: 24
+Num observations: 2493
+Total count: 2335429
+Table density (fraction of non-zero values): 1
+Table md5 (unzipped): 3dc873edbf40f2067556f40c73fba05c
+
+Counts/sample summary:
+ Min: 63740
+ Max: 146604
+ Median: 101383
+ Mean: 97309
+ Std. dev.: 17241.9114067534
+ Sample Metadata Categories: None provided
+ Observation Metadata Categories: taxonomy
+
+Counts/sample detail:
+ ASE.V01.A: 101505
+ ASE.V01.B: 66027
+ ASE.V01.C: 102392
+ ASE.V02.A: 113726
+ ASE.V02.B: 90592
+ ASE.V02.C: 63740
+ ASE.V03.A: 146604
+ ASE.V03.B: 104713
+ ASE.V03.C: 100600
+ ASE.V04.A: 96975
+ ASE.V04.B: 97712
+ ASE.V04.C: 64062
+ PDC.V01.5: 103508
+ PDC.V01.6: 104835
+ PDC.V01.7: 104361
+ PDC.V02.5: 102814
+ PDC.V02.6: 100917
+ PDC.V02.7: 72319
+ PDC.V03.5: 101261
+ PDC.V03.6: 101043
+ PDC.V03.7: 103018
+ PDC.V04.5: 103010
+ PDC.V04.6: 86243
+ PDC.V04.7: 103452

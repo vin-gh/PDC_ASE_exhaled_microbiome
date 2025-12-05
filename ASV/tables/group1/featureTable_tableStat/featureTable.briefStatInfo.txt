@@ -1,0 +1,18 @@
+Num samples: 2
+Num observations: 2493
+Total count: 2335429
+Table density (fraction of non-zero values): 0.0184516646610509
+Table md5 (unzipped): 5198796c32ec745fcde57f6d0d333429
+
+Counts/sample summary:
+ Min: 1148648
+ Max: 1186781
+ Median: 1167714
+ Mean: 1167714
+ Std. dev.: 19097.0975936135
+ Sample Metadata Categories: None provided
+ Observation Metadata Categories: taxonomy
+
+Counts/sample detail:
+ ASE: 1148648
+ PDC: 1186781
