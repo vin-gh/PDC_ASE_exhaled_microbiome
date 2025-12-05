@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "PDC Sampler Condensation Theory & Bioinformatics (ASE vs PDC)"
+version: "1.0"
+date-released: "2025-11-04"
+authors:
+  - family-names: Gao
+    given-names: Han
+    email: 220224443@seu.edu.cn
+    affiliation: School of Biological Science and Medical Engineering; National Key Laboratory of Digital Medical Engineering, Southeast University
+  - family-names: Liu
+    given-names: Quanjun
+    email: lqj@seu.edu.cn
+    affiliation: School of Biological Science and Medical Engineering; National Key Laboratory of Digital Medical Engineering, Southeast University
+identifiers: []
+keywords:
+  - aerosol
+  - condensation
+  - Monte Carlo
+  - PDC sampler
+  - bioaerosol
+  - microbiome
+  - ANCOM-BC2
+  - alpha diversity
+  - PCoA
+  - Wilcoxon
+license: MIT
+type: software
+abstract: >
+  Open, citable R scripts and selected datasets accompanying our manuscript 
+  on PDC-sampler condensation theory (Monte Carlo, hygroscopic growth) and 
+  ASE vs PDC bioinformatics visualizations (mostly derived from QIIME 2 and 
+  NovoMagic exports). Scripts use repository-relative paths and document the 
+  inputs/outputs and manuscript figure mappings for transparent reuse. DOI 
+  and paper URL will be added upon acceptance.
