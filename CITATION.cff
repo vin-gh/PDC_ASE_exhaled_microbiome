@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "PDC Sampler Condensation Theory & Bioinformatics (ASE vs PDC)"
+version: "1.0"
+date-released: "2025-11-04"
+authors:
+  - family-names: Gao
+    given-names: Han
+    affiliation: School of Biological Science and Medical Engineering, Southeast University
+license: MIT
+type: software
+abstract: >
+  Open, citable code and data for PDC-sampler condensation theory (Monte Carlo,
+  hygroscopic growth) and ASE vs PDC bioinformatics visualizations used in our manuscript.
